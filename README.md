@@ -1,4 +1,5 @@
-### Netflix Clone
+## Netflix Clone
+
 
 ## Available Scripts
 

@@ -23,8 +23,8 @@ function Row({ title, fetchUrl, isLargeRow }) {
 
     //"https:developers.google.com/youtube/player_parameters",
   const opts = {
-    height:"390",
-    width: "300",
+    height: "390",
+    width: "100%",
     playerVars :{
    
      autoplay: 1, 
